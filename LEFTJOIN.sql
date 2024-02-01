@@ -6,3 +6,5 @@ SELECT c.name as Customers
 FROM Customers AS c
     LEFT JOIN Orders AS o ON C.id = O.customerid
 WHERE o.id IS NULL
+
+-- Left Join은 Null 포함 모든 데이터 연결
