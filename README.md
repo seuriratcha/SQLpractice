@@ -1,4 +1,4 @@
-![image](https://github.com/yemrekeskin/sql-lessons/assets/155952980/56600898-c5c7-49c1-a03f-600e24968179)
+<img src="https://raw.githubusercontent.com/yemrekeskin/sql-lessons/master/T-SQL%20Training%20Material/icon.png" width="50" height="50"> 
 
 # SQL practice
 
