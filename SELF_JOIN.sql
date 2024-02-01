@@ -21,4 +21,5 @@ FROM Weather AS today
 WHERE today.temperature > yesterday.temperature
 
 -- whether table을 today, yesterday로 지정
+-- self join은 한 개 테이블을 2개로 활용하는 것이기 때문에 'AS'로 각각 지정 필요
 -- 'recordDate' 날짜 컬럼 이용하여 key값 연결
