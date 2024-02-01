@@ -2,10 +2,10 @@
 
 This repository contains query exercises using MySQL.
 
-I collected a list of sql questions online and practiced them.
+I collected a list of SQL questions online and practiced them.
 Below are the online platforms I used for practice.
 
-* [Hakker Rank](https://www.hackerrank.com/)
+* [Hacker Rank](https://www.hackerrank.com/)
 * [Leet code](https://leetcode.com/)
 
 
