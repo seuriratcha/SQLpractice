@@ -1,2 +1,13 @@
-# SQLpractice
-Learn SQL from beginner to master
+# SQL practice
+
+This repository contains query exercises using MySQL.
+
+I collected a list of sql questions online and practiced them.
+Below are the online platforms I used for practice.
+
+* [Hakker Rank](https://www.hackerrank.com/)
+* [Leet code](https://leetcode.com/)
+
+
+Feel free to use and/or contribute to it. 
+Any comments or suggestions are welcomed and appreciated.
