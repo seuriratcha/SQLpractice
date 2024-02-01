@@ -1,3 +1,5 @@
+![image](https://github.com/yemrekeskin/sql-lessons/assets/155952980/56600898-c5c7-49c1-a03f-600e24968179)
+
 # SQL practice
 
 This repository contains query exercises using MySQL.
